@@ -1,0 +1,32 @@
+_repo: The-Privy-Purse-Expenses-of-King-Henry-VIII-from-November-MDXXIX-to-December-MDXXXII_46009
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 46009-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Nicolas, Nicholas Harris, Sir
+    aliases:
+    - Nicholas, Nicholas Harris, Sir
+    - Nicolas, Harris, Sir
+    birthdate: 1799
+    deathdate: 1848
+    gutenberg_agent_id: '32389'
+    url: http://www.gutenberg.org/2009/agents/32389
+description: ''
+gutenberg_issued: '2014-06-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '46009'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Prices -- Great Britain'
+- !lcsh 'Henry VIII, King of England, 1491-1547'
+- !lcc 'DA'
+- !lcsh 'Royal households -- Great Britain'
+title: The Privy Purse Expenses of King Henry VIII from November MDXXIX, to December
+  MDXXXII
+url: http://www.gutenberg.org/ebooks/46009
